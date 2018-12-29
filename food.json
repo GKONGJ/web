@@ -1,10 +1,10 @@
 {
-  "squadName" : "VEGTABLE WORLD",
+  "squadName" : "VEGETABLE WORLD",
   "members" : [
     {
-      "name" : "韭菜",
-      "surname":"春季",
-      "skill":[
+      "veg" : "韭菜",
+      "vacation":"春季",
+      "menu":[
         "韭菜炒香干",
         "韭菜包饺子",
         "香烤豆皮卷韭菜",
@@ -13,9 +13,9 @@
       ]
     },
     {
-      "name" : "番茄",
-      "surname":"夏季",
-      "skill":[
+      "veg" : "番茄",
+      "vacation":"夏季",
+      "menu":[
         "番茄炒蛋",
         "番茄牛腩",
         "番茄鸡丁",
@@ -24,9 +24,9 @@
       ]
     },
     {
-      "name" : "小白菜",
-      "surname":"秋季",
-      "skill":[
+       "veg" : "小白菜",
+      "vacation":"秋季",
+      "menu":[
         "小白菜烧芋头",
         "蔬菜瘦肉粥",
         "香油小白菜",
@@ -35,9 +35,9 @@
       ]
     },
     {
-      "name" : "白萝卜",
-      "surname":"冬季",
-      "skill":[
+      "veg" : "白萝卜",
+      "vacation":"冬季",
+      "menu":[
         "凉拌白萝卜丝",
         "泡椒白萝卜",
         "白萝卜素丸子",
